@@ -5,11 +5,11 @@
 
 /**/*.tsbuildinfo
 
-# /.env
-# /.env.*.local
+/.env
+/.env.*.local
 
-# /prisma/dev.db
-# /.prisma/
+/prisma/dev.db
+/.prisma/
 
 npm-debug.log*
 yarn-debug.log*
