@@ -1,0 +1,40 @@
+/node_modules/
+
+/dist/
+/build/
+
+/**/*.tsbuildinfo
+
+# /.env
+# /.env.*.local
+
+# /prisma/dev.db
+# /.prisma/
+
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+*.log
+logs/
+
+/coverage/
+/jest.config.js
+
+
+/coverage/lcov.info
+/coverage/*
+
+
+.vscode/
+
+.idea/
+/*.iml
+
+.DS_Store
+
+Thumbs.db
+
+
+docker-compose.override.yml
+
+*.swp
